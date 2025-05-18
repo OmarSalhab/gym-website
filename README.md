@@ -52,3 +52,47 @@ Welcome to **Gymme** – a modern, animated, and fully responsive gym landing pa
 ---
 
 ## 🖼️ Project Structure
+
+
+gym-website-main/ ├── public/ │ └── index.html ├── src/ │ ├── assets/ # Images and icons │ ├── components/ # All React components │ ├── data.js # Centralized static content │ ├── App.jsx # Main app layout │ ├── index.js # Entry point │ ├── index.css # Tailwind & custom styles │ └── workoutSlider.css # Swiper custom styles ├── tailwind.config.js # Tailwind configuration ├── postcss.config.js # PostCSS configuration ├── package.json # Project dependencies & scripts └── README.md # This file!
+
+---
+
+## 🏗️ How It Works
+
+- **Animations:**  
+  Elements use `data-aos` attributes to trigger fade, slide, and zoom effects as you scroll.
+
+- **Sliders:**  
+  Workouts and testimonials are displayed in Swiper carousels, fully responsive and touch-enabled.
+
+- **Styling:**  
+  Tailwind CSS utility classes ensure a consistent, modern look across all sections.
+
+- **Content Management:**  
+  All text, images, and lists are imported from `src/data.js` for easy editing.
+
+---
+
+## 📦 Getting Started
+
+1. **Install dependencies:**
+   ```bash```
+   ```npm install```
+
+2. **Run locally:**
+    ```npm start```
+
+3. **Build for production:**
+    ```npm run build```
+
+4. **Deploy to GitHub Pages:**
+    ```npm run deploy```
+
+---
+
+# 💡 Customization
+
+- Update images and icons in `src/assets/`
+- Change content in `src/data.js`
+- Adjust styles in `src/index.css` and `tailwind.config.js`
