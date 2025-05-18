@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gym-website/static/css/main.e37b3edd.css",
+    "main.js": "/gym-website/static/js/main.8a0bf8e7.js",
+    "static/media/bg.png": "/gym-website/static/media/bg.aa9add829b9ddaab15ca.png",
+    "static/media/woman.png": "/gym-website/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/img4.png": "/gym-website/static/media/img4.3f2b41a180f0b0e9b539.png",
+    "static/media/img3.png": "/gym-website/static/media/img3.76cafac0275672eee799.png",
+    "static/media/img1.png": "/gym-website/static/media/img1.a5400d538dc08bb9c485.png",
+    "static/media/battle-rope.png": "/gym-website/static/media/battle-rope.f0e838feb90e5240e67b.png",
+    "static/media/fitness.png": "/gym-website/static/media/fitness.40c4aecb2995e4d21467.png",
+    "static/media/img2.png": "/gym-website/static/media/img2.f49950ea6082a8572af4.png",
+    "static/media/body-pump.png": "/gym-website/static/media/body-pump.db655530d82349eb4cbb.png",
+    "static/media/yoga.png": "/gym-website/static/media/yoga.e95806de96273a0c68d4.png",
+    "static/media/full-body.png": "/gym-website/static/media/full-body.88337db51a52afbb3ceb.png",
+    "static/media/resistance.png": "/gym-website/static/media/resistance.011df5b9669edc4f464d.png",
+    "static/media/boxing.png": "/gym-website/static/media/boxing.04062eac3922c5d3517d.png",
+    "static/media/logo.svg": "/gym-website/static/media/logo.ec379985c40750207317b25c0cf477ae.svg",
+    "static/media/calendar.svg": "/gym-website/static/media/calendar.316d9eb39b360280ca6b5027f5462a62.svg",
+    "static/media/price.svg": "/gym-website/static/media/price.99fc6d830c98a274d69675502dec0aac.svg",
+    "static/media/users-icn.svg": "/gym-website/static/media/users-icn.1c1181836b52f949c1de5db01fcd212e.svg",
+    "static/media/community-icn.svg": "/gym-website/static/media/community-icn.6ccf103bf065aaec1be8ea4cddcb9511.svg",
+    "index.html": "/gym-website/index.html",
+    "static/media/question-mark.svg": "/gym-website/static/media/question-mark.ac78e0f4921dbec4cdd8586294a5bb5d.svg",
+    "static/media/chevron-right.svg": "/gym-website/static/media/chevron-right.54d3bc1c0ea6ec072a21.svg",
+    "static/media/bg.svg": "/gym-website/static/media/bg.e3dec2c236c3afaf8c8a.svg",
+    "static/media/chevron-left.svg": "/gym-website/static/media/chevron-left.7d0e8c34fcab2fb5f0bc.svg",
+    "main.e37b3edd.css.map": "/gym-website/static/css/main.e37b3edd.css.map",
+    "main.8a0bf8e7.js.map": "/gym-website/static/js/main.8a0bf8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37b3edd.css",
+    "static/js/main.8a0bf8e7.js"
+  ]
+}
